@@ -1,6 +1,5 @@
 package lectures;
 
-import docrob.ServerNameGenerator;
 import playtime.Fighter;
 import playtime.Ninja;
 
